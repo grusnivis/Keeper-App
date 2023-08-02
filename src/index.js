@@ -1,3 +1,16 @@
+/*
+================================================================================
+FILE        : index.js
+AUTHOR      : Kathryn Marie P. Sigaya
+DESCRIPTION : JS file that serves as the index of the web app.
+COPYRIGHT   : 18 July 2023
+REVISION HISTORY
+Date: 			By: 		Description:
+18 July 2023    Sigaya      creation of file and initial layout
+02 Aug 2023     Sigaya      Added components, props, map and arrow functions
+================================================================================
+*/
+
 //1. Create a new React app.
 //2. Create a App.jsx component.
 //3. Create a Header.jsx component that renders a <header> element
@@ -10,7 +23,6 @@
 //https://l1pp6.csb.app/
 
 //HINT: You will need to study the classes in teh styles.css file to appy styling.
-
 
 import React from 'react';
 import ReactDOM from 'react-dom';
